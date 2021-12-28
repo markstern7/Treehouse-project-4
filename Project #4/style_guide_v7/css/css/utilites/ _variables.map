@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": " _variables.css",
+	"sources": [
+		"../../scss/utilites/ _variables.scss"
+	],
+	"sourcesContent": [
+		"$primary:green; \n$fontThin: 300; "
+	],
+	"names": [],
+	"mappings": ""
+}
